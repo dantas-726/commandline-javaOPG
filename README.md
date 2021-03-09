@@ -11,13 +11,19 @@
 - [x] Paint
 - [x] Eclipse IDE
 
->**My Monitor:** 
+**My Monitor:** 
  - AOC 144hz
  - Resolution: 1920x1080
  - 24 inch
  
 Use **paint** to pick up positions on the monitor and remember them to use in the **mouse move command**
 
+**Example:** 
+
+
+![Capturar](https://user-images.githubusercontent.com/40534089/110522885-2b2fee80-80f0-11eb-8b37-705d2de5c81d.PNG)
+
+**1922x1344px is the location of your mouse pointer**
 
 
 
@@ -28,7 +34,8 @@ Use **paint** to pick up positions on the monitor and remember them to use in th
 
 
 
-> **Code Below:**
+
+ **Code Below:**
 
 ```
 import java.awt.AWTException;
