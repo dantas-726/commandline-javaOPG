@@ -35,7 +35,7 @@ Use **paint** to pick up positions on the monitor and remember them to use in th
 
 
 
- **Code Below:**
+>**Code Below:**
 
 ```
 import java.awt.AWTException;
