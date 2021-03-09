@@ -1,6 +1,6 @@
 # commandline-in-Java
 
-**command line to download a game on steam made by me (in development)**
+**Command line to download a game on steam made by me (in development)**
 
 
 ```
