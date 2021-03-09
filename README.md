@@ -4,12 +4,31 @@
 
 **This code is based on the size of your monitor**
 
+
+**What you need?**
+
+- [x] Steam
+- [x] Paint
+- [x] Eclipse IDE
+
 **My Monitor:** 
  - AOC 144hz
  - Resolution: 1920x1080
  - 24 inch
+ 
+Use **paint** to pick up positions on the monitor and remember them to use in the **mouse move command**
 
 
+
+
+
+
+
+
+
+
+
+> **Code Below:**
 
 ```
 import java.awt.AWTException;
