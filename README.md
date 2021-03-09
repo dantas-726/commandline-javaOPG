@@ -5,7 +5,7 @@
 **This code is based on the size of your monitor**
 
 >**My Monitor:** 
-- AOC 144hz
+ AOC 144hz
    - Resolution: 1920x1080
      - 24 inch
 
