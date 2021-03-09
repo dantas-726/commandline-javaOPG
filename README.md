@@ -2,7 +2,7 @@
 
 **Command line to download a game on steam made by me (in development)**
 
-
+>This code is based on the size of your monitor
 ```
 import java.awt.AWTException;
 import java.awt.Robot;
