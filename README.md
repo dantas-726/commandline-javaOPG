@@ -16,7 +16,7 @@
  - Resolution: 1920x1080
  - 24 inch
  
-Use **paint** to pick up positions on the monitor and remember them to use in the **mouse move command**
+Use **paint** to find the location of the mouse pointer on the monitor and remember them to use in the **mouse move command**
 
 **Example:** 
 
