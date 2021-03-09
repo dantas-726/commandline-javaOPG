@@ -23,7 +23,7 @@ Use **paint** to pick up positions on the monitor and remember them to use in th
 
 ![Capturar](https://user-images.githubusercontent.com/40534089/110522885-2b2fee80-80f0-11eb-8b37-705d2de5c81d.PNG)
 
-**_1922x1344 px is the location of your mouse pointer_**
+**_(1922x1344 px is the location of your mouse pointer)_**
 
 
 
