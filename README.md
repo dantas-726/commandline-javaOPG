@@ -11,10 +11,10 @@
 - [x] Paint
 - [x] Eclipse IDE
 
-**My Monitor:** 
- - AOC 144hz
- - Resolution: 1920x1080
- - 24 inch
+>**My Monitor:** 
+> - AOC 144hz
+> - Resolution: 1920x1080
+> - 24 inch
  
 Use **paint** to pick up positions on the monitor and remember them to use in the **mouse move command**
 
