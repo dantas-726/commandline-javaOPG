@@ -3,6 +3,15 @@
 **Command line to download a game on steam made by me (in development)**
 
 >This code is based on the size of your monitor
+
+My Monitor: 
+
+1. AOC 144hz
+   - Resolution: 1920x1080
+     - 24 inch
+
+
+
 ```
 import java.awt.AWTException;
 import java.awt.Robot;
